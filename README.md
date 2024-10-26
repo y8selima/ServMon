@@ -1,6 +1,6 @@
 # ServMon
 
-simple service availability monitoring tool using port check that helps you track and monitor the health of your services.
+simple service availability monitoring tool using port check that helps you track and monitor the health of your services and shows the unavailable services automatically in the top.
 
 ## 🚀 Features
 
